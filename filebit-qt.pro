@@ -15,16 +15,16 @@ greaterThan(QT_MAJOR_VERSION, 4) {
 }
 
 BOOST_LIB_SUFFIX=-mgw48-mt-s-1_55
-BOOST_INCLUDE_PATH=E:/deps/boost_1_55_022
-BOOST_LIB_PATH=E:/deps/boost_1_55_022/stage/lib
-BDB_INCLUDE_PATH=E:/deps/db-4.8.30.NC/build_unix
-BDB_LIB_PATH=E:/deps/db-4.8.30.NC/build_unix
-OPENSSL_INCLUDE_PATH=E:/deps/openssl-1.0.1g/include
-OPENSSL_LIB_PATH=E:/deps/openssl-1.0.1g
-MINIUPNPC_INCLUDE_PATH=E:/deps/
-MINIUPNPC_LIB_PATH=E:/deps/miniupnpc
-QRENCODE_INCLUDE_PATH=E:/deps/qrencode-3.4.3
-QRENCODE_LIB_PATH=E:/deps/qrencode-3.4.3/.libs
+BOOST_INCLUDE_PATH=D:/deps/boost_1_55_022
+BOOST_LIB_PATH=D:/deps/boost_1_55_022/stage/lib
+BDB_INCLUDE_PATH=D:/deps/db-4.8.30.NC/build_unix
+BDB_LIB_PATH=D:/deps/db-4.8.30.NC/build_unix
+OPENSSL_INCLUDE_PATH=D:/deps/openssl-1.0.1g/include
+OPENSSL_LIB_PATH=D:/deps/openssl-1.0.1g
+MINIUPNPC_INCLUDE_PATH=D:/deps/
+MINIUPNPC_LIB_PATH=D:/deps/miniupnpc
+QRENCODE_INCLUDE_PATH=D:/deps/qrencode-3.4.3
+QRENCODE_LIB_PATH=D:/deps/qrencode-3.4.3/.libs
 
 
 # for boost 1.37, add -mt to the boost libraries

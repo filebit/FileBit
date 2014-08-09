@@ -105,7 +105,7 @@ color: rgb(255, 255, 255);</string>
      <item>
       <widget class="QValidatedLineEdit" name="payTo">
        <property name="toolTip">
-        <string>The FBIT address to send the payment to  (e.g. NfwYhBmGXcFP2Po1NpRUEiK8km2)</string>
+        <string>The XF address to send the payment to  (e.g. NfwYhBmGXcFP2Po1NpRUEiK8km2)</string>
        </property>
        <property name="maxLength">
         <number>34</number>
